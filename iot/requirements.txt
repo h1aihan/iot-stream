@@ -1,0 +1,5 @@
+confluent-kafka
+pydantic
+SQLAlchemy>=2.0
+psycopg2-binary
+python-dateutil
